@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme - Uber Style Dark Mode -->
+    <style name="Base.Theme.NoCopyrightPicture" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color - Mosaic -->
+        <item name="colorPrimary">@color/mosaic</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <!-- Secondary brand color - Vibrant Blue Green -->
+        <item name="colorSecondary">@color/vibrant_blue_green</item>
+        <item name="colorSecondaryVariant">@color/accent_dark</item>
+        <item name="colorOnSecondary">@color/mosaic</item>
+        
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/mosaic</item>
+        
+        <!-- Google Sans Font Family -->
+        <item name="android:fontFamily">@font/googlesans</item>
+        <item name="fontFamily">@font/googlesans</item>
+    </style>
+</resources>

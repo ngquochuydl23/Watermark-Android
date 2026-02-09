@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Watermark App</string>
+    
+    <!-- Main Activity -->
+    <string name="watermark_hint">Nội dung Watermark (SĐT / Tên Shop)</string>
+    <string name="btn_camera">Chụp ảnh</string>
+    <string name="btn_gallery">Thư viện</string>
+    <string name="btn_share">Chia sẻ</string>
+    <string name="placeholder_text">Chụp ảnh hoặc chọn từ thư viện để bắt đầu đóng dấu</string>
+    
+    <!-- Settings Activity -->
+    <string name="settings_title">Cài đặt Watermark</string>
+    <string name="watermark_content">Nội dung Watermark</string>
+    <string name="opacity">Độ mờ (Opacity)</string>
+    <string name="text_color">Màu chữ</string>
+    <string name="color_white">Trắng</string>
+    <string name="color_black">Đen</string>
+    <string name="color_red">Đỏ</string>
+    <string name="preview">Xem trước</string>
+    <string name="save_settings">Lưu cài đặt</string>
+    
+    <!-- Share Bottom Sheet -->
+    <string name="share_to">Chia sẻ đến</string>
+    <string name="facebook">Facebook</string>
+    <string name="zalo">Zalo</string>
+    <string name="telegram">Telegram</string>
+    <string name="more">Khác</string>
+    <string name="cancel">Hủy</string>
+    
+    <!-- Messages -->
+    <string name="processing">Đang xử lý: %d%%</string>
+    <string name="save_success">Đã lưu ảnh vào thư mục Pictures/WatermarkPhotos</string>
+    <string name="app_not_installed">Bạn chưa cài đặt %s</string>
+    <string name="permission_required">Cần cấp quyền để sử dụng tính năng này</string>
+    <string name="no_image_to_share">Chưa có ảnh để chia sẻ</string>
+    <string name="settings_saved">Đã lưu cài đặt</string>
+    <string name="enter_watermark_text">Vui lòng nhập nội dung watermark</string>
+</resources>

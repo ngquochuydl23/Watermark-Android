@@ -1,0 +1,47 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme - Tailwind Inspired (Light Only) -->
+    <style name="Base.Theme.NoCopyrightPicture" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Primary brand color - Slate -->
+        <item name="colorPrimary">@color/gray_900</item>
+        <item name="colorPrimaryVariant">@color/gray_800</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <!-- Secondary brand color - Emerald -->
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent_dark</item>
+        <item name="colorOnSecondary">@color/white</item>
+        
+        <!-- Surface colors -->
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/gray_900</item>
+        <item name="colorSurfaceVariant">@color/gray_50</item>
+        
+        <!-- Text colors -->
+        <item name="android:textColor">@color/gray_900</item>
+        <item name="android:textColorPrimary">@color/gray_900</item>
+        <item name="android:textColorSecondary">@color/gray_600</item>
+        <item name="android:textColorHint">@color/gray_400</item>
+        <item name="android:editTextColor">@color/gray_900</item>
+        
+        <!-- Status bar color - Light -->
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+        
+        <!-- Google Sans Font Family -->
+        <item name="android:fontFamily">@font/googlesans</item>
+        <item name="fontFamily">@font/googlesans</item>
+    </style>
+
+    <style name="Theme.NoCopyrightPicture" parent="Base.Theme.NoCopyrightPicture" />
+    
+    <!-- Tailwind Toolbar Title Style -->
+    <style name="ToolbarTitleStyle" parent="TextAppearance.Material3.TitleLarge">
+        <item name="android:fontFamily">@font/googlesans_bold</item>
+        <item name="fontFamily">@font/googlesans_bold</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/gray_900</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:letterSpacing">-0.02</item>
+    </style>
+</resources>

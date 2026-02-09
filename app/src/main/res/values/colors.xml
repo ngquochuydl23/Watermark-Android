@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#6B7280</color>
+    <color name="gray_light">#F9FAFB</color>
+    
+    <!-- Tailwind Inspired Color Palette -->
+    <!-- Slate 900 - Primary Dark -->
+    <color name="mosaic">#0F172A</color>
+    <!-- Emerald 500 - Accent -->
+    <color name="vibrant_blue_green">#10B981</color>
+    <!-- Full White -->
+    <color name="full_white">#FFFFFF</color>
+    
+    <!-- Primary Colors (Tailwind Slate) -->
+    <color name="primary">#0F172A</color>
+    <color name="primary_dark">#020617</color>
+    <color name="primary_light">#1E293B</color>
+    <color name="accent">#10B981</color>
+    <color name="accent_dark">#059669</color>
+    <color name="accent_light">#ECFDF5</color>
+    
+    <!-- Surface Colors (Tailwind Gray) -->
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F9FAFB</color>
+    
+    <!-- Tailwind Gray Palette -->
+    <color name="gray_50">#F9FAFB</color>
+    <color name="gray_100">#F3F4F6</color>
+    <color name="gray_200">#E5E7EB</color>
+    <color name="gray_300">#D1D5DB</color>
+    <color name="gray_400">#d3d3d3</color>
+    <color name="gray_500">#6B7280</color>
+    <color name="gray_600">#4B5563</color>
+    <color name="gray_700">#374151</color>
+    <color name="gray_800">#1F2937</color>
+    <color name="gray_900">#111827</color>
+    
+    <!-- On Colors -->
+    <color name="on_primary">#FFFFFF</color>
+    <color name="on_accent">#FFFFFF</color>
+    
+    <!-- Social Colors -->
+    <color name="facebook_blue">#1877F2</color>
+    <color name="zalo_blue">#0068FF</color>
+    <color name="telegram_blue">#0088CC</color>
+</resources>
